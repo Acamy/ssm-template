@@ -1,5 +1,4 @@
-# ssm-template
-轻量级SpringMVC + Spring + Mybatis框架模板
+# 项目介绍
 
 采用阿里巴巴Druid连接池，log4j日志组件，FreeMarker模板引擎，数据库用MySQL, 通过Maven管理依赖，在该项目模板基础上可以灵活搭建出自己要实现的JavaWeb项目。
 
